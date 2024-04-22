@@ -1,1 +1,1 @@
-# electoral-demographic-analysis
+This code is useful for editing an existing excel file, taking data from sheet and putting it in an analytical format in another sheet there by making it like a dahboard, where key metrics from the excel file can be identificed and demographic data can be analysed.
